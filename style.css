@@ -1,0 +1,96 @@
+
+.title{
+    color: #4E5150;
+}
+.contact-info-heading{
+    color: #333333;
+}
+.form-label{
+    font-family: 'Montserrat', sans-serif;
+    color: #4F4F4F;
+}
+.input-style{
+    height: 3.5rem;
+    border-width: 0.063rem;
+    border-radius: 0.75rem;
+    border-style: solid solid solid none;
+    border-color: #828282;
+}
+.input-style:focus {
+    border-color: #F2994A;
+    background-color: #f2984a14;
+    
+    
+}
+
+ 
+ .input-group-text{
+    background-color: white;
+     border-radius:  0.75rem;
+     border-width: 0.063rem;
+     border-style: solid none solid solid;
+     border-color:#828282;
+     color:  #828282;
+     
+ }
+ 
+ .form-select{
+     color: #828282;
+ }
+ .butn{
+    font-family: 'Montserrat', sans-serif;
+     color: white;
+     background-color: #F2994A;
+     width: 166px;
+height: 54px;
+ }
+ 
+
+.input-group:focus-within .input-group-text {color: #F2994A; border-color:#F2994A ; background-color: #f2984a14;}
+.product-layout{
+    background: #F2F2F2;
+border-radius: 12px;
+
+}
+.product-img{
+    border-radius: 13px;
+    width: 180px;
+height:180px;
+}
+.product-price{
+    color: #F2994A;
+}
+.product-realprice{
+    color: #000;
+    font-size: 0.999rem;
+}
+.product-quandity{
+    border: 1px solid #828282;
+border-radius: 12px;
+}
+.q-btn{
+    font-weight: 700;
+    color:  #828282;
+    background: #E0E0E0;
+border-radius: 4px;
+border-color:#E0E0E0 ;
+
+align-items: center;
+
+}
+.q-btn:focus,.q-btn:active {
+    outline: none !important;
+    box-shadow: none;
+ }
+ .contenter{
+     
+     height: 1px;
+     border-top: 1px solid #BDBDBD;
+ }
+ .copyrit{
+    color: #BDBDBD
+ }
+ .copyrit-name{
+     font-size: larger;
+     color: #969696
+ }
